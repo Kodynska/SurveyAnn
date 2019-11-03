@@ -1,0 +1,19 @@
+{
+    "name": "onmotion/yii2-widget-upload-crop",
+    "description": "Fork",
+    "keywords": ["yii2", "form", "widget"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ashis Mohanty",
+            "email": "ashismohanty82@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": { "onmotion\\yii2\\widget\\upload\\crop\\": "" }
+    }
+}
